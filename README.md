@@ -1,3 +1,4 @@
+
 # rrnDBcorrectOTU
 cororect 16S rRNA copy numbers by rrnDB database for a OTU table
 
@@ -21,7 +22,10 @@ output$cholw.res
 
 output$correct.table
 
+
 # Attention!!!!
+
+"Mean" 16S copies for a taxa in rrnDB database is used for calculation.
 
 "Well done" in the command line means no error occured during this process
 

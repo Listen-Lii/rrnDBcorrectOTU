@@ -23,6 +23,11 @@ output$correct.table
 
 # Attention!!!!
 
+"Well done" in the command line means no error occured during this process
+
 "-1" in the forth column (CopyNumber) in whole.res file means this taxa is not collected in rrnDB database.
+
+# 基本原理
+rrnDB包括四个等级，class,order, family, genus.
 
 

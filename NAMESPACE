@@ -1,0 +1,2 @@
+importFrom("stats", "complete.cases")
+exportPattern("^[[:alpha:]]+")

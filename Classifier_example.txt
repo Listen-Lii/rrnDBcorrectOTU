@@ -1,0 +1,6 @@
+OTU	Domain	Phylum	Class	Order	Family	Genus	Species
+OTU_1	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Unclassified
+OTU_2	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Unclassified	Unclassified
+OTU_3	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Zavarzinella	Unclassified
+OTU_4	Bacteria	Acidobacteria	Acidobacteria Gp4	Unclassified	Unclassified	Aridibacter	Unclassified
+OTU_5	Bacteria	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
